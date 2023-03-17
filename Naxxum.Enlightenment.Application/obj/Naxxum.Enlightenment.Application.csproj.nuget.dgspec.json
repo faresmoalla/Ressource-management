@@ -1,0 +1,166 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Desktop\\Naxxum PFE\\Enlightenment\\Naxxum.Enlightenment.Application\\Naxxum.Enlightenment.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Desktop\\Naxxum PFE\\Enlightenment\\Naxxum.Enlightenment.Application\\Naxxum.Enlightenment.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Desktop\\Naxxum PFE\\Enlightenment\\Naxxum.Enlightenment.Application\\Naxxum.Enlightenment.Application.csproj",
+        "projectName": "Naxxum.Enlightenment.Application",
+        "projectPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Desktop\\Naxxum PFE\\Enlightenment\\Naxxum.Enlightenment.Application\\Naxxum.Enlightenment.Application.csproj",
+        "packagesPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Desktop\\Naxxum PFE\\Enlightenment\\Naxxum.Enlightenment.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Desktop\\Naxxum PFE\\Enlightenment\\Naxxum.Enlightenment.Domain\\Naxxum.Enlightenment.Domain.csproj": {
+                "projectPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Desktop\\Naxxum PFE\\Enlightenment\\Naxxum.Enlightenment.Domain\\Naxxum.Enlightenment.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Desktop\\Naxxum PFE\\Enlightenment\\Naxxum.Enlightenment.Domain\\Naxxum.Enlightenment.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Desktop\\Naxxum PFE\\Enlightenment\\Naxxum.Enlightenment.Domain\\Naxxum.Enlightenment.Domain.csproj",
+        "projectName": "Naxxum.Enlightenment.Domain",
+        "projectPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Desktop\\Naxxum PFE\\Enlightenment\\Naxxum.Enlightenment.Domain\\Naxxum.Enlightenment.Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Desktop\\Naxxum PFE\\Enlightenment\\Naxxum.Enlightenment.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Application\bin\Debug\net7.0\SubscriptionsSystem.Application.deps.json
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Application\bin\Debug\net7.0\SubscriptionsSystem.Application.dll
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Application\bin\Debug\net7.0\SubscriptionsSystem.Application.pdb
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Application\bin\Debug\net7.0\SubscriptionsSystem.Domain.dll
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Application\bin\Debug\net7.0\SubscriptionsSystem.Domain.pdb
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Application\obj\Debug\net7.0\SubscriptionsSystem.Application.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Application\obj\Debug\net7.0\SubscriptionsSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Application\obj\Debug\net7.0\SubscriptionsSystem.Application.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Application\obj\Debug\net7.0\SubscriptionsSystem.Application.AssemblyInfo.cs
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Application\obj\Debug\net7.0\SubscriptionsSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Application\obj\Debug\net7.0\SubscriptionsSystem.Application.csproj.CopyComplete
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Application\obj\Debug\net7.0\SubscriptionsSystem.Application.dll
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Application\obj\Debug\net7.0\refint\SubscriptionsSystem.Application.dll
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Application\obj\Debug\net7.0\SubscriptionsSystem.Application.pdb
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Application\obj\Debug\net7.0\ref\SubscriptionsSystem.Application.dll

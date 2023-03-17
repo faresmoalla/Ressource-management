@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naxxum.Enlightenment.Domain", "Naxxum.Enlightenment.Domain\Naxxum.Enlightenment.Domain.csproj", "{7563E3A8-AFB0-49B0-8F31-96DACB217B56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naxxum.Enlightenment.API", "Naxxum.Enlightenment.API\Naxxum.Enlightenment.API.csproj", "{B132209B-F1BE-457C-8DF5-ACE88FBE0D0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naxxum.Enlightenment.Infrastructure", "Naxxum.Enlightenment.Infrastructure\Naxxum.Enlightenment.Infrastructure.csproj", "{AACD0A86-CE97-4F86-B439-0C9F28C4F278}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naxxum.Enlightenment.Application", "Naxxum.Enlightenment.Application\Naxxum.Enlightenment.Application.csproj", "{CF7C2F22-9D2B-4D94-B8D1-C05FEC565A31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "authentication", "authentication", "{03B2BEC9-EFB8-42A3-BFED-0281787A0D66}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ressources", "Ressources", "{533B0079-D0BE-45C5-A05C-2CD9862AC786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naxxum.Enlightenment.Ressources.Domain", "Naxxum.Enlightenment.Ressources.Domain\Naxxum.Enlightenment.Ressources.Domain.csproj", "{69C1292C-3503-46A8-9EDB-30B34A6C064A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naxxum.Enlightenment.Ressources.Application", "Naxxum.Enlightenment.Ressources.Application\Naxxum.Enlightenment.Ressources.Application.csproj", "{C0BBBABE-F7D1-42B9-B8E5-03F13AB92A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naxxum.Enlightenment.Ressources.Infrastructure", "Naxxum.Enlightenment.Ressources.Infrastructure\Naxxum.Enlightenment.Ressources.Infrastructure.csproj", "{9645257C-6B2B-433A-950E-725BB703BA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naxxum.Enlightenment.Ressources.API", "Naxxum.Enlightenment.Ressources.API\Naxxum.Enlightenment.Ressources.API.csproj", "{E0231FAD-5BEA-4B75-9B25-D5B9D856AE29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7563E3A8-AFB0-49B0-8F31-96DACB217B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7563E3A8-AFB0-49B0-8F31-96DACB217B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7563E3A8-AFB0-49B0-8F31-96DACB217B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7563E3A8-AFB0-49B0-8F31-96DACB217B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B132209B-F1BE-457C-8DF5-ACE88FBE0D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B132209B-F1BE-457C-8DF5-ACE88FBE0D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B132209B-F1BE-457C-8DF5-ACE88FBE0D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B132209B-F1BE-457C-8DF5-ACE88FBE0D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AACD0A86-CE97-4F86-B439-0C9F28C4F278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACD0A86-CE97-4F86-B439-0C9F28C4F278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACD0A86-CE97-4F86-B439-0C9F28C4F278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACD0A86-CE97-4F86-B439-0C9F28C4F278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF7C2F22-9D2B-4D94-B8D1-C05FEC565A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7C2F22-9D2B-4D94-B8D1-C05FEC565A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF7C2F22-9D2B-4D94-B8D1-C05FEC565A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF7C2F22-9D2B-4D94-B8D1-C05FEC565A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C1292C-3503-46A8-9EDB-30B34A6C064A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C1292C-3503-46A8-9EDB-30B34A6C064A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C1292C-3503-46A8-9EDB-30B34A6C064A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C1292C-3503-46A8-9EDB-30B34A6C064A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0BBBABE-F7D1-42B9-B8E5-03F13AB92A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BBBABE-F7D1-42B9-B8E5-03F13AB92A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BBBABE-F7D1-42B9-B8E5-03F13AB92A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BBBABE-F7D1-42B9-B8E5-03F13AB92A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9645257C-6B2B-433A-950E-725BB703BA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9645257C-6B2B-433A-950E-725BB703BA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9645257C-6B2B-433A-950E-725BB703BA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9645257C-6B2B-433A-950E-725BB703BA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0231FAD-5BEA-4B75-9B25-D5B9D856AE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0231FAD-5BEA-4B75-9B25-D5B9D856AE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0231FAD-5BEA-4B75-9B25-D5B9D856AE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0231FAD-5BEA-4B75-9B25-D5B9D856AE29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7563E3A8-AFB0-49B0-8F31-96DACB217B56} = {03B2BEC9-EFB8-42A3-BFED-0281787A0D66}
+		{B132209B-F1BE-457C-8DF5-ACE88FBE0D0A} = {03B2BEC9-EFB8-42A3-BFED-0281787A0D66}
+		{AACD0A86-CE97-4F86-B439-0C9F28C4F278} = {03B2BEC9-EFB8-42A3-BFED-0281787A0D66}
+		{CF7C2F22-9D2B-4D94-B8D1-C05FEC565A31} = {03B2BEC9-EFB8-42A3-BFED-0281787A0D66}
+		{69C1292C-3503-46A8-9EDB-30B34A6C064A} = {533B0079-D0BE-45C5-A05C-2CD9862AC786}
+		{C0BBBABE-F7D1-42B9-B8E5-03F13AB92A5B} = {533B0079-D0BE-45C5-A05C-2CD9862AC786}
+		{9645257C-6B2B-433A-950E-725BB703BA88} = {533B0079-D0BE-45C5-A05C-2CD9862AC786}
+		{E0231FAD-5BEA-4B75-9B25-D5B9D856AE29} = {533B0079-D0BE-45C5-A05C-2CD9862AC786}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A42201EE-8E7C-4666-9F83-2A507D813599}
+	EndGlobalSection
+EndGlobal

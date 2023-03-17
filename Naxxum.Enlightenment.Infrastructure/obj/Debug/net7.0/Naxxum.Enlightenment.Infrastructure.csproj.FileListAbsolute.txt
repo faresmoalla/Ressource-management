@@ -1,0 +1,57 @@
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.deps.json
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.runtimeconfig.json
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.dll
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.pdb
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Application.dll
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Domain.dll
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Application.pdb
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Domain.pdb
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.AssemblyInfo.cs
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.csproj.CopyComplete
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.dll
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\obj\Debug\net7.0\refint\Naxxum.Enlightenment.Infrastructure.dll
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.pdb
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.genruntimeconfig.cache
+C:\Users\MSI\Desktop\pfe\TEST\SubscriptionsSystem\src\SubscriptionsSystem.Infrastructure\obj\Debug\net7.0\ref\Naxxum.Enlightenment.Infrastructure.dll
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.AssemblyInfo.cs
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.dll
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\refint\Naxxum.Enlightenment.Infrastructure.dll
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.pdb
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.deps.json
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.runtimeconfig.json
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.dll
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.pdb
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Application.dll
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Domain.dll
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Application.pdb
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Domain.pdb
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.csproj.CopyComplete
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.genruntimeconfig.cache
+C:\Users\MSI\Desktop\pfe\TEST\Enlightenment\src\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\ref\Naxxum.Enlightenment.Infrastructure.dll
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.AssemblyInfo.cs
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.dll
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\refint\Naxxum.Enlightenment.Infrastructure.dll
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.pdb
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.deps.json
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.runtimeconfig.json
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.dll
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.pdb
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Application.dll
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Domain.dll
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Application.pdb
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\bin\Debug\net7.0\Naxxum.Enlightenment.Domain.pdb
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.csproj.CopyComplete
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\Naxxum.Enlightenment.Infrastructure.genruntimeconfig.cache
+C:\Users\Administrateur.DESKTOP-BMBSNE9\Desktop\Naxxum pfe\Enlightenment\Naxxum.Enlightenment.Infrastructure\obj\Debug\net7.0\ref\Naxxum.Enlightenment.Infrastructure.dll

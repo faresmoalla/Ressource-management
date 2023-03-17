@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Naxxum.Enlightenment.API.props" />
+</Project>
